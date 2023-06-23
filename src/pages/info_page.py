@@ -89,3 +89,4 @@ than the WHO recommended value of 5.00 NTU.
 st.image('https://www.deloachindustries.com/hs-fs/hubfs/Turbidity-NTU-of-the-water-samples-tested.jpeg?width=378&name=Turbidity-NTU-of-the-water-samples-tested.jpeg')
 st.subheader('Summary')
 st.text('Taking in all of these factors, this is what will determine if water is drinkable or not')
+
